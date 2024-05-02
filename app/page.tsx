@@ -31,7 +31,6 @@ export default function Home() {
 					{LINKS.map((link) => (
 						<a
 							href="/"
-							type="button"
 							key={link}
 							className="bg-neutral-10 rounded-md py-3 hover:bg-green-10 text-white cursor-pointer text-sm font-semibold hover:text-neutral-30 text-center"
 						>

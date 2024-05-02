@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View on Frontend Mentor]()
-- Live Site URL: [View on Vercel]()
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-nextjstailwind-PusH2CAFja)
+- Live Site URL: [View on Vercel](https://frontend-mentor-social-links-profile-nick-abate.vercel.app/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ## Author
 
--  Website - [Nick Abate](https://nickabate.dev/)
+- Website - [Nick Abate](https://nickabate.dev/)
 - Frontend Mentor - [@nickabate](https://www.frontendmentor.io/profile/nickabate)
 - Twitter - [@thatdevnick](https://twitter.com/thatdevnick)
 
