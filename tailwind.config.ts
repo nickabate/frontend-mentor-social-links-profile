@@ -8,11 +8,16 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
+      colors: {
+        neutral: {
+          10: 'hsl(0, 0%, 20%)',
+          20: 'hsl(0, 0%, 12%)',
+          30: 'hsl(0, 0%, 8%)'
+        },
+        green: {
+          10: 'hsl(75, 94%, 57%)'
+        }
+      }
     },
   },
   plugins: [],

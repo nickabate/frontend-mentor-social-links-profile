@@ -1,0 +1,1 @@
+export const LINKS = ['GitHub', 'Frontend Mentor', 'LinkedIn', 'Twitter', 'Instagram']
